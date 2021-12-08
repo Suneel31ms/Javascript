@@ -1,6 +1,6 @@
 # Javascript trminology-----------------
 //function declaration...
-function newfun(){}
+function newfun(){};
 //function expression...
 var newfun=function(){};
 var newfun=function name(){};
