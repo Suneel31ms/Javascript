@@ -25,7 +25,7 @@ myfun:function(){};
 myfun:function(para1,para2){
 return para1+para2;
 }
-//call a method..
+//call a method...
 obj.myfun(arg1,arg2);
 
 
